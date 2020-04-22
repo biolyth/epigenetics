@@ -1,4 +1,4 @@
-# hello-world
+# epigenetics
 Repository of epigenetic and animal behavior python scripts
 
 More to come soon. 
